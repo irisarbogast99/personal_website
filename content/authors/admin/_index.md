@@ -63,6 +63,7 @@ email: "irisarbogast@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-#- 
+# 
+---
 
-Iris Arbogast is a Senior Research Associate at the Federal Reserve Bank of St. Louis applying for PhD programs to start in Fall 2023. Her research on pandemic unemployment benefits was featured on Bloomberg and her health economics research with Princeton Economist Janet Currie has been featured on Bloomberg, Brookings, NBER Working Papers Featured, and used in a White House Office of Management and Budget Memo.
+Iris Arbogast is a Senior Research Associate at the Federal Reserve Bank of St. Louis applying for PhD programs to start in Fall 2023. Her research on pandemic unemployment benefits has been featured on [Bloomberg](https://www.bloomberg.com/news/articles/2022-08-08/ending-covid-jobless-benefit-aided-us-employment-fed-study-says) and her health economics research with Princeton Economist Janet Currie has been featured on [Bloomberg](https://www.bloomberg.com/news/newsletters/2022-10-26/some-states-push-to-limit-health-coverage-for-poor-children), [Brookings](https://www.brookings.edu/blog/up-front/2022/10/27/hutchins-roundup-natural-interest-rates-work-visas-and-more/), NBER Featured Working Papers, and used in a [White House Office of Management and Budget Memo](https://www.whitehouse.gov/wp-content/uploads/2022/12/BurdenReductionStrategies.pdf).
