@@ -1,44 +1,46 @@
 ---
-title: "Long-Term Trends in Gasoline Prices"
+title: "An example journal article"
 authors:
 - admin
-- B. Ravikumar
+- Robert Ford
 author_notes:
-date: "2012-06-17T00:00:00Z"
+- "Equal contribution"
+- "Equal contribution"
+date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Federal Reserve Publication;
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Economic Synopses*"
+publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-#abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-# s ummary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-#- Source Themes
+- Source Themes
 featured: false
 
 # links:
-# name: ""
-# - url: 
-url_pdf: "files/long-term-trends-in-gasoline-prices.pdf"
+# - name: ""
+#   url: ""
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://research.stlouisfed.org/publications/economic-synopses/2022/06/17/long-term-trends-in-gasoline-prices'
+url_source: ''
 url_video: ''
 
 # Featured image
@@ -60,6 +62,15 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+slides: example
 ---
 
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
