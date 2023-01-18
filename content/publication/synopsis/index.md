@@ -1,9 +1,9 @@
 ---
-title: "The Jobs Effect of Ending Pandemic Unemployment Benefits: A State-Level Analysis"
+title: "Long-Term Trends in Gasoline Prices"
 authors:
 - admin
-- "Bill Dupor"
-date: "2022-04-24T00:00:00Z"
+- "B. Ravikumar"
+date: "2022-06-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["9"]
 publication: ""
 publication_short: ""
 
-abstract: This note uses the asynchronous cessation of emergency unemployment benefits (EUB) in 2021 to investigate the jobs impact of ending unemployment benefits. While some states stopped providing EUB in September, other states stopped in June and July. Using the ces- sation month as an instrument, we estimate the causal effect on employment of reducing un- employment rolls. In the first three months following a state’s program termination, for every 100 person reduction in beneficiaries, state employment causally increased by about 35 per- sons. The effect is statistically different from zero and robust to a wide array of alternative specifications.
+#abstract: This note uses the asynchronous cessation of emergency unemployment benefits (EUB) in 2021 to investigate the jobs impact of ending unemployment benefits. While some states stopped providing EUB in September, other states stopped in June and July. Using the ces- sation month as an instrument, we estimate the causal effect on employment of reducing un- employment rolls. In the first three months following a state’s program termination, for every 100 person reduction in beneficiaries, state employment causally increased by about 35 per- sons. The effect is statistically different from zero and robust to a wide array of alternative specifications.
 
 
 #tags:
