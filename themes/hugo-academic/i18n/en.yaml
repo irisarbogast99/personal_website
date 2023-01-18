@@ -158,7 +158,10 @@
 
 - id: pub_uncat
   translation: Uncategorized
-
+  
+- id: pub_fedreserve
+  translation: Federal Reserve Publication
+  
 - id: pub_conf
   translation: Conference paper
 
