@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Iris Arbogast is a Senior Research Associate at the Federal Reserve Bank of St. Louis. She is applying for PhD programs to start in Fall 2023. 
+bio: Iris Arbogast is a Senior Research Associate at the Federal Reserve Bank of St. Louis. She is applying for PhD programs in Economics to start in Fall 2023. 
 
 interests:
 - Health economics
