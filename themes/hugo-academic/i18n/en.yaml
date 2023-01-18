@@ -167,6 +167,9 @@
 
 - id: pub_journal
   translation: Journal article
+  
+- id: pub_federalreserve
+  translation: Federal Reserve Publication
 
 - id: pub_preprint
   translation: Preprint
