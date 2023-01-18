@@ -1,45 +1,50 @@
 ---
-title: "The Jobs Effect of Ending Pandemic Unemployment Benefits: A State-Level Analysis"
+title: "Long-Term Trends in Gasoline Prices"
 authors:
 - admin
-- "Bill Dupor"
-date: "2022-04-24T00:00:00Z"
+- B. Ravikumar
+author_notes:
+date: "2022-06-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal Publication;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Economic Synopses*"
 publication_short: ""
 
-abstract: This note uses the asynchronous cessation of emergency unemployment benefits (EUB) in 2021 to investigate the jobs impact of ending unemployment benefits. While some states stopped providing EUB in September, other states stopped in June and July. Using the ces- sation month as an instrument, we estimate the causal effect on employment of reducing un- employment rolls. In the first three months following a state’s program termination, for every 100 person reduction in beneficiaries, state employment causally increased by about 35 per- sons. The effect is statistically different from zero and robust to a wide array of alternative specifications.
+#abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
+# Summary. An optional shortened abstract.
+# s ummary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-#tags:
-#- pandemic emergency unemployment benefits
+tags:
+#- Source Themes
 featured: false
 
-links:
-url_pdf: files/2022-010.pdf
+# links:
+# name: ""
+# - url: 
+#url_pdf: "files/long-term-trends-in-gasoline-prices.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://research.stlouisfed.org/publications/economic-synopses/2022/06/17/long-term-trends-in-gasoline-prices'
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -48,14 +53,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ''
+# slides: example
 ---
-
