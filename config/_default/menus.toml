@@ -10,13 +10,13 @@
 
 [[main]]
   name = "Federal Reserve Publications"
-  url = "#federalreservepublications"
-  weight = 30
+  url = "#publications"
+  weight = 20
 
 [[main]]
     name = "Working papers"
     url = "#working-papers"
-    weight = 20
+    weight = 30
 
 #[[main]]
 #    name = "Teaching"
