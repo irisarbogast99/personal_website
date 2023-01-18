@@ -27,13 +27,13 @@ publication_short: ""
 featured: false
 
 links:
-url_pdf: files/2022-010.pdf
+url_pdf: "files/long-term-trends-in-gasoline-prices.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://research.stlouisfed.org/publications/economic-synopses/2022/06/17/long-term-trends-in-gasoline-prices'
 url_video: ''
 
 # Featured image
