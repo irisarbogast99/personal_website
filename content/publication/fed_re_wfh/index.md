@@ -2,7 +2,8 @@
 title: "Working from Home: More Americans Are Telecommuting"
 authors:
 - admin
-- "Yi Wen"
+- "Charles S. Gascon"
+- "Andrew Spewak"
 date: "2019-10-09T00:00:00Z"
 doi: ""
 
