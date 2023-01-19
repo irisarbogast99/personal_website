@@ -1,7 +1,8 @@
 ---
-title: "Long-Term Trends in Gasoline Prices"
+title: "Geographic Dispersion in U.S. Employment"
 authors:
 - admin
+- "Jesse LaBelle"
 - "B. Ravikumar"
 date: "2022-06-17T00:00:00Z"
 doi: ""
@@ -27,13 +28,13 @@ publication_short: ""
 featured: false
 
 links:
-url_pdf: "files/long-term-trends-in-gasoline-prices.pdf"
+url_pdf: "files/geographic-dispersion-in-u-s-employment.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://research.stlouisfed.org/publications/economic-synopses/2022/06/17/long-term-trends-in-gasoline-prices'
+url_source: 'https://research.stlouisfed.org/publications/economic-synopses/2022/04/04/geographic-dispersion-in-u-s-employment'
 url_video: ''
 
 # Featured image

@@ -1,9 +1,9 @@
 ---
-title: "Long-Term Trends in Gasoline Prices"
+title: "The End of Emergency Pandemic Unemployment Benefits in 2021"
 authors:
 - admin
-- "B. Ravikumar"
-date: "2022-06-17T00:00:00Z"
+- "Bill Dupor"
+date: "2022-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Economic Synopsis*"
+publication: "*On the Economy Blog*"
 publication_short: ""
 
 #abstract: This note uses the asynchronous cessation of emergency unemployment benefits (EUB) in 2021 to investigate the jobs impact of ending unemployment benefits. While some states stopped providing EUB in September, other states stopped in June and July. Using the ces- sation month as an instrument, we estimate the causal effect on employment of reducing un- employment rolls. In the first three months following a state’s program termination, for every 100 person reduction in beneficiaries, state employment causally increased by about 35 per- sons. The effect is statistically different from zero and robust to a wide array of alternative specifications.
@@ -27,13 +27,13 @@ publication_short: ""
 featured: false
 
 links:
-url_pdf: "files/long-term-trends-in-gasoline-prices.pdf"
+url_pdf: "files/ontheec_pua.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://research.stlouisfed.org/publications/economic-synopses/2022/06/17/long-term-trends-in-gasoline-prices'
+url_source: 'https://www.stlouisfed.org/on-the-economy/2022/apr/end-emergency-pandemic-unemployment-benefits-2021'
 url_video: ''
 
 # Featured image

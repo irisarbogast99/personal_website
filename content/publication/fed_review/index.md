@@ -1,9 +1,9 @@
 ---
-title: "Long-Term Trends in Gasoline Prices"
+title: "Increasing Employment by Halting Pandemic Unemployment Benefits"
 authors:
 - admin
-- "B. Ravikumar"
-date: "2022-06-17T00:00:00Z"
+- "Bill Dupor"
+date: "2022-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,10 +16,10 @@ doi: ""
 publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Economic Synopsis*"
+publication: "Federal Reserve Bank of St. Louis *Review*"
 publication_short: ""
 
-#abstract: This note uses the asynchronous cessation of emergency unemployment benefits (EUB) in 2021 to investigate the jobs impact of ending unemployment benefits. While some states stopped providing EUB in September, other states stopped in June and July. Using the ces- sation month as an instrument, we estimate the causal effect on employment of reducing un- employment rolls. In the first three months following a state’s program termination, for every 100 person reduction in beneficiaries, state employment causally increased by about 35 per- sons. The effect is statistically different from zero and robust to a wide array of alternative specifications.
+abstract: In mid-2021, 26 states halted participation in all or some federal emergency unemployment benefits (EUB) programs before those programs’ federal funding lapsed. This article uses this asynchronous EUB cessation between early- and late-halting states to estimate the causal impact of benefit cessation on employment. We find that cessation increased employment by 29 persons for every 100 (pre-halt) EUB recipients. Expressed as a number of jobs, if all states had halted EUB in June, September employment would have been 3.4 million persons higher relative to a no-halt counterfactual. Late-halting states could have signifi- cantly accelerated their states’ jobs recoveries in the second half of 2021 through early program cessation.
 
 
 #tags:
@@ -27,13 +27,13 @@ publication_short: ""
 featured: false
 
 links:
-url_pdf: "files/long-term-trends-in-gasoline-prices.pdf"
+url_pdf: "files/increasing-employment-by-halting-pandemic-unemployment-benefits.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://research.stlouisfed.org/publications/economic-synopses/2022/06/17/long-term-trends-in-gasoline-prices'
+url_source: 'https://research.stlouisfed.org/publications/review/2022/06/23/increasing-employment-by-halting-pandemic-unemployment-benefits'
 url_video: ''
 
 # Featured image
