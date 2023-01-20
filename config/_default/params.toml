@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Federal Reserve Bank of St. Louis"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Iris Arbogast is a PhD Applicant at the Federal Reserve Bank of St. Louis"
+description = "Iris Arbogast is an Economics PhD Applicant at the Federal Reserve Bank of St. Louis"
 
 ############################
 ## Site Features
@@ -170,7 +170,7 @@ highlight_superuser = false
 link_authors = true
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
-abstract_length = 135
+abstract_length = 200
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
@@ -282,7 +282,7 @@ plugins_js  = []
 ############################
 [marketing]
   google_analytics = "G-2KS2NTQ687"
-  google_tag_manager = "G-2KS2NTQ687"
+  google_tag_manager = ""
 
 ############################
 ## Content Management System
