@@ -1,5 +1,5 @@
 ---
-title: "Administrative Burdens and Child Medicaid Enrollments"
+title: "Administrative Burdens and Child Medicaid Enrollments (R&R at AJHE)"
 authors:
 - admin
 - "Anna Chorniy"
@@ -17,7 +17,7 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "NBER Working Paper, R&R at AJHE"
+publication: "NBER Working Paper"
 publication_short: ""
 
 abstract: Following decades of increasing child access to public health insurance, enrollments fell in many states between 2016 and 2019 and the number of uninsured children increased. This study provides the first national, quantitative assessment of the role of several common types of administrative burdens in driving the pre-pandemic drop in child health insurance coverage. In addition, we undertake to identify the groups of children who were most affected by administrative burden. We show that regulations that increased administrative burdens placed on families reduced public health insurance coverage by a mean of 5.4 percent within the year following the implementation of these changes. Declines were largest for children without college educated parents, Hispanic families, and families with non-citizen parents. Declines in insurance coverage have been temporarily arrested by federal measures taken in response to the COVID-19 public health emergency. But unless policies increasing administrative burden are reconsidered, the decline in children’s public health insurance enrollments is likely to resume when the emergency declaration is lifted.
