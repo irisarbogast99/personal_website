@@ -10,20 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Applicant in Economics for Fall 2023
+role: Economics PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Federal Reserve Bank of St. Louis
+- name: University of Chicago
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Iris Arbogast is a Senior Research Associate at the Federal Reserve Bank of St. Louis. She is applying for PhD programs in Economics to start in Fall 2023. 
-
-interests:
-- Health economics
-- Labor economics
-- Public economics
+bio: Iris Arbogast is a PhD student in Economics at the University of Chicago. 
  
 
 education:
@@ -31,6 +26,9 @@ education:
   - course: BA in Economics
     institution: Carleton College
     year: 2020
+
+ - course: PhD in Economics
+    institution: University of Chicago
 
 
 # Social/Academic Networking
@@ -67,4 +65,4 @@ user_groups:
 # - Visitors
 ---
 
-Iris Arbogast is a Senior Research Associate at the Federal Reserve Bank of St. Louis and NSF GRFP recipient applying for PhD programs in Economics to start in Fall 2023. Her research on pandemic unemployment benefits has been featured on [Bloomberg](https://www.bloomberg.com/news/articles/2022-08-08/ending-covid-jobless-benefit-aided-us-employment-fed-study-says) and her health economics research with Princeton Economist Janet Currie has been featured on [Bloomberg](https://www.bloomberg.com/news/newsletters/2022-10-26/some-states-push-to-limit-health-coverage-for-poor-children), [Brookings](https://www.brookings.edu/blog/up-front/2022/10/27/hutchins-roundup-natural-interest-rates-work-visas-and-more/), and NBER Featured Working Papers, and used in a [White House Office of Management and Budget Memo](https://www.whitehouse.gov/wp-content/uploads/2022/12/BurdenReductionStrategies.pdf).
+Iris Arbogast is a PhD student in Economics at the University of Chicago and NSF GRFP recipient. Her research on pandemic unemployment benefits has been featured on [Bloomberg](https://www.bloomberg.com/news/articles/2022-08-08/ending-covid-jobless-benefit-aided-us-employment-fed-study-says) and her health economics research with Princeton Economist Janet Currie has been featured on [Bloomberg](https://www.bloomberg.com/news/newsletters/2022-10-26/some-states-push-to-limit-health-coverage-for-poor-children), [Brookings](https://www.brookings.edu/blog/up-front/2022/10/27/hutchins-roundup-natural-interest-rates-work-visas-and-more/), and NBER Featured Working Papers, and used in a [White House Office of Management and Budget Memo](https://www.whitehouse.gov/wp-content/uploads/2022/12/BurdenReductionStrategies.pdf).
