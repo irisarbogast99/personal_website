@@ -4,7 +4,6 @@ authors:
 - admin
 - "Anna Chorniy"
 - "Janet Currie"
-date: "2024-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
