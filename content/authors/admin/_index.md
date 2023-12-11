@@ -26,6 +26,9 @@ education:
   - course: BA in Economics
     institution: Carleton College
     year: 2020
+  - course: PhD in Economics
+    institution: University of Chicago
+    year: Current Student
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
