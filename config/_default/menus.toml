@@ -8,8 +8,13 @@
   url = "files/cv.pdf"
   weight = 10
 
+#[[main]]
+#    name = "Publications"
+#    url = "#publications"
+#    weight = 15
+
 [[main]]
-  name = "Federal Reserve Publications"
+  name = "Policy Work"
   url = "#federalreservepublications"
   weight = 30
 

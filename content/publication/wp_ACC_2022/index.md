@@ -1,5 +1,5 @@
 ---
-title: "Administrative Burdens and Child Medicaid Enrollments (R&R at AJHE)"
+title: "Administrative Burdens and Child Medicaid Enrollments (Forthcoming)"
 authors:
 - admin
 - "Anna Chorniy"
