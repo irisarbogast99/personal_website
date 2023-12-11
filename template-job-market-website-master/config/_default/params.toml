@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Federal Reserve Bank of St. Louis"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Iris Arbogast is a PhD Applicant at the Federal Reserve Bank of St. Louis"
+description = "Iris Arbogast is an Economics PhD student at the University of Chicago"
 
 ############################
 ## Site Features
