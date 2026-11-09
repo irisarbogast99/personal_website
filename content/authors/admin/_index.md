@@ -21,6 +21,10 @@ organizations:
 bio: Iris Arbogast is a PhD student in Economics at the University of Chicago. 
  
 
+interests:
+- Macroeconomics
+- Economic Growth
+
 education:
   courses:
   - course: BA in Economics
@@ -28,7 +32,7 @@ education:
     year: 2020
   - course: PhD in Economics
     institution: University of Chicago
-    year: Current Student
+    year: 2023–Present
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,9 +45,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/twitter_handle
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=GOO#GLE-SCHOLAR-ID
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=so3QaPcAAAAJ&hl=en&oi=ao
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/GITHUB-USERNAME
@@ -64,4 +68,4 @@ user_groups:
 # - Visitors
 ---
 
-Iris Arbogast is a PhD student in Economics at the University of Chicago and NSF GRFP recipient. Her research on pandemic unemployment benefits has been featured on [Bloomberg](https://www.bloomberg.com/news/articles/2022-08-08/ending-covid-jobless-benefit-aided-us-employment-fed-study-says) and her health economics research with Princeton Economist Janet Currie has been featured on [Bloomberg](https://www.bloomberg.com/news/newsletters/2022-10-26/some-states-push-to-limit-health-coverage-for-poor-children), [Brookings](https://www.brookings.edu/blog/up-front/2022/10/27/hutchins-roundup-natural-interest-rates-work-visas-and-more/), and NBER Featured Working Papers, and used in a [White House Office of Management and Budget Memo](https://www.whitehouse.gov/wp-content/uploads/2022/12/BurdenReductionStrategies.pdf).
+Iris Arbogast is a PhD student in Economics at the University of Chicago and NSF GRFP recipient. Her research focuses on macroeconomics and economic growth. Her earlier work on pandemic unemployment benefits and child health insurance has been featured on [Bloomberg](https://www.bloomberg.com/news/articles/2022-08-08/ending-covid-jobless-benefit-aided-us-employment-fed-study-says), [Brookings](https://www.brookings.edu/blog/up-front/2022/10/27/hutchins-roundup-natural-interest-rates-work-visas-and-more/), and NBER Featured Working Papers, and cited in a [White House Office of Management and Budget Memo](https://www.whitehouse.gov/wp-content/uploads/2022/12/BurdenReductionStrategies.pdf).

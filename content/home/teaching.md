@@ -1,18 +1,22 @@
 +++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
-# widget = "custom"
-active = false
-# date = 2020-08-09
+widget = "blank"
+headless = true
+active = true
+weight = 120
 
-# # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-# title = "Teaching"
-# subtitle = "Average instructor rating: 4.8/5"
-# 
-# # Order that this section will appear in.
-# weight = 120
+title = "Teaching"
+subtitle = ""
 
+[design]
+  columns = "1"
 +++
+
+**University of Chicago**
+
+- Money and Banking (ECON 23000)
+- Development Economics
+- Applied Microeconometrics
+
+*Outstanding Undergraduate Teaching Award* — Recognizes teaching assistants for excellence in undergraduate instruction, nominated by members of the undergraduate student body.
 
 

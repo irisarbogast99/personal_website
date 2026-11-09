@@ -1,11 +1,11 @@
 ---
-title: "Administrative Burdens and Child Medicaid Enrollments (Forthcoming May 2023)"
+title: "Administrative Burdens and Child Medicaid Enrollments"
 authors:
 - admin
 - "Anna Chorniy"
 - "Janet Currie"
-date: "2023-09-01T00:00:00Z"
-doi: ""
+date: "2024-01-01T00:00:00Z"
+doi: "10.1086/728170"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "201-01-01T00:00:00Z"
@@ -17,8 +17,8 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "American Journal of Health Economics"
-publication_short: ""
+publication: "American Journal of Health Economics, vol. 10, no. 2, pp. 237–271"
+publication_short: "Am. J. Health Econ."
 
 abstract: "Following decades of increasing child access to public health insurance, pre-pandemic enrollments fell in many states after 2016 and the number of uninsured children increased.  This study provides the first national, quantitative assessment of the role of administrative burdens in driving this drop in child health insurance coverage.  In addition, we identify the demographic groups of children who were most affected.   We show that regulations that increased administrative burdens placed on families reduced public health insurance coverage by a mean of 5.9% within six months following the implementation of these changes.  Declines were largest for Hispanic children, children with non-citizen parents, and children whose parents reported that they did not speak English well.   These reductions were separate from and in addition to enrollment declines among Hispanic children following the announcement of a new public charge rule in Sept. 2018."
 
