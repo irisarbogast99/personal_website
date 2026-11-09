@@ -14,8 +14,8 @@ subtitle = ""
 **University of Chicago**
 
 - Money and Banking (ECON 23000)
-- Development Economics
-- Applied Microeconometrics
+- Development Economics (ECON 15500)
+- Applied Microeconometrics (ECON 21110)
 
 *Outstanding Undergraduate Teaching Award* — Recognizes teaching assistants for excellence in undergraduate instruction, nominated by members of the undergraduate student body.
 
