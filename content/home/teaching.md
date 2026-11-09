@@ -17,6 +17,6 @@ subtitle = ""
 - Development Economics
 - Applied Microeconometrics
 
-*Outstanding Undergraduate Teaching Award* — Recognizes teaching assistants for excellence in undergraduate instruction, nominated by members of the undergraduate student body.
+*Outstanding Undergraduate Teaching Award*, 2026 — Recognizes teaching assistants for excellence in undergraduate instruction, nominated by members of the undergraduate student body.
 
 
